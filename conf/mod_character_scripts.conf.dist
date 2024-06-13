@@ -1,0 +1,13 @@
+[worldserver]
+
+########################################
+# CharacterScripts configuration
+########################################
+#
+#    CharacterScripts.Enable
+#        Description: Enable or disable the module.
+#        Default:     0 - Disabled
+#                     1 - Enabled
+#
+
+CharacterScripts.Enable = 1
